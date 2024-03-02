@@ -7,5 +7,5 @@ Tran Nhu Cam Nguyen - 22520004
 # Instructor
 Dr. Luong Ngoc Hoang
 # Folder Structure
-Demo_SMSClassifier : Contains code and datasets used for demonstrating SVM in practical applications, specifically for classifying messages into spam and ham.
-SVM_from_scratch.py : Python code implementing Support Vector Machine from scratch.
+- Demo_SMSClassifier : Contains code and datasets used for demonstrating SVM in practical applications, specifically for classifying messages into spam and ham.
+- SVM_from_scratch.py : Python code implementing Support Vector Machine from scratch.
